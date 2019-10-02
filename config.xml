@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "decathlonokhta1395"
+        id          = "Decathlon1395"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
     <name>ТЕСТ. DecaOkhta</name>
 
     <description>
-        store-plan1395
+        Инструмент-инструкция необходимая для продуктивной и успешной работы в Декатлон Охта
     </description>
 
     <author>Tadapp</author>
@@ -28,7 +28,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#007BFF" />
+    <preference name="SplashScreenSpinnerColor" value="#2FA65D" />
 
 
     <platform name="android">
